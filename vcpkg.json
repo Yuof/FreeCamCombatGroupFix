@@ -1,0 +1,18 @@
+{
+  "name": "freecamcombatgroupfix",
+  "version-string": "1.0.0",
+  "description": "SKSE plugin: fixes the crashes in the player's combat-group update while the free camera is on.",
+  "license": "GPL-3.0-or-later",
+  "dependencies": [
+    "directxmath",
+    "directxtk",
+    "fmt",
+    "nlohmann-json",
+    "rapidcsv",
+    "simpleini",
+    "spdlog",
+    "toml11",
+    "xbyak"
+  ],
+  "builtin-baseline": "ee12231b20c95013c6638d845d04c91559a1d1ff"
+}
